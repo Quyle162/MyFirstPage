@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[127],{xVaR:function(module,e,t){"use strict";t.r(e);var n=t("pVnL"),r=t.n(n),a=t("q1tI"),u=t("MnCE"),c=t("8cuT"),o=t("EdUP"),i=t("wvSq"),s=t("6JUP"),b=t("GqWO");e.default=Object(u.b)(Object(c.a)(["CourseStore"],(function(e){return{courseId:e.CourseStore.getCourseId()}})),Object(o.a)((function(e){return!!e.itemMetadata})))((function(e){if(Object(s.a)(e.courseId))return null;var t=Object(b.l)(e.itemMetadata);return(a.createElement(i.a,r()({},e,{backLink:t})))}))}}]);
+//# sourceMappingURL=127.651e629f07e17868562e.js.map
